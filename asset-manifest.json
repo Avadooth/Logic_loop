@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Logic_loop/static/css/main.4de8fc3f.css",
+    "main.js": "/Logic_loop/static/js/main.b1044559.js",
+    "static/js/453.c75f9ee9.chunk.js": "/Logic_loop/static/js/453.c75f9ee9.chunk.js",
+    "static/media/bg-img.png": "/Logic_loop/static/media/bg-img.eaac35579cfd432127e7.png",
+    "static/media/LearningApproch.png": "/Logic_loop/static/media/LearningApproch.2c1400113bed47e70358.png",
+    "static/media/ourcompus.png": "/Logic_loop/static/media/ourcompus.37d64ab6337015dcf20c.png",
+    "static/media/UHD-logo.svg": "/Logic_loop/static/media/UHD-logo.863d42c4f683a7fd5b069cf0d1fc1efb.svg",
+    "index.html": "/Logic_loop/index.html",
+    "static/media/Arrow.svg": "/Logic_loop/static/media/Arrow.1683f775a2f67fe9e0b2e2b3fa0cfc3a.svg",
+    "static/media/Arrow_yellow.svg": "/Logic_loop/static/media/Arrow_yellow.b55638f82da7921f030f916daad3b8ed.svg",
+    "main.4de8fc3f.css.map": "/Logic_loop/static/css/main.4de8fc3f.css.map",
+    "main.b1044559.js.map": "/Logic_loop/static/js/main.b1044559.js.map",
+    "453.c75f9ee9.chunk.js.map": "/Logic_loop/static/js/453.c75f9ee9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de8fc3f.css",
+    "static/js/main.b1044559.js"
+  ]
+}
