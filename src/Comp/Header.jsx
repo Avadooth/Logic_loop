@@ -25,11 +25,11 @@ const Header = () => {
           </div>
         </div>
         <img
-            src="/img/Sticky-Enquire.png"
-            alt="Universal High School"
-            className="Sticky-Enquire-img"
-          />
-        
+          src="/img/Sticky-Enquire.png"
+          alt="Universal High School-1"
+          className="Sticky-Enquire-img"
+        />
+
         <div className="flex justify-around">
           <Addmission />
           <img
