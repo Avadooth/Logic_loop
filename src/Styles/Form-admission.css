@@ -1,0 +1,61 @@
+.enquiry-form {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .academic-year {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .enquire-now {
+    font-size: 18px;
+    color: #337ab7;
+    margin-bottom: 10px;
+  }
+  
+  .academic-year-value {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .relationship-label,
+  .child-first-name-label,
+  .child-last-name-label,
+  .parent-first-name-label,
+  .parent-last-name-label,
+  .course-label,
+  .mobile-number-label,
+  .email-address-label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .relationship-label select,
+  .child-first-name-label input,
+  .child-last-name-label input,
+  .parent-first-name-label input,
+  .parent-last-name-label input,
+  .course-label select,
+  .mobile-number-label input,
+  .email-address-label input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .enquire-now-button {
+    background-color: #337ab7;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  

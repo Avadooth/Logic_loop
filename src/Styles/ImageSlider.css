@@ -1,0 +1,47 @@
+/* ImageSlider.css */
+.slider {
+  position: relative;
+  width: calc(3 * 360px + 2 * 30px); /* 3 images * 360px + 2 * 30px margin for 3 images */
+  height: 410px; /* Image height + space for dots */
+  margin: auto;
+  overflow: hidden;
+}
+
+.slider-inner {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  min-width: 360px; /* Image width */
+  margin-right: 30px; /* Add margin-right */
+  box-sizing: border-box;
+}
+
+/* img {
+  width: 360px;
+  height: 360px;
+  display: block;
+} */
+
+.dots {
+  text-align: center;
+  position: relative; /* Positioning dots below the image area */
+  bottom: 0;
+  margin-top: 25px; /* Space between images and dots */
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 5px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.dot.active {
+  background-color: #717171;
+}
+
